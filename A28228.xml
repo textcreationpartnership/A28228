@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The burden of Babylon and the triumph of Sion by George Bishope.</title>
+            <author>Bishop, George, d. 1668.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28228</idno>
+            <idno type="STC">Wing B2989</idno>
+            <idno type="STC">ESTC R37074</idno>
+            <idno type="EEBO-CITATION">16204347</idno>
+            <idno type="OCLC">ocm 16204347</idno>
+            <idno type="VID">105067</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28228)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105067)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1088:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The burden of Babylon and the triumph of Sion by George Bishope.</title>
+                  <author>Bishop, George, d. 1668.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and faded with slight loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges.</term>
+               <term>Repentance.</term>
+               <term>Apocalyptic literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105067:1"/>
+            <pb facs="tcp:105067:1" rendition="simple:additions"/>
+            <p>THE BURDEN OF BABYLON, AND THE TRIUMPH OF SION As it was ſeen in the VALLEY of VISION: By <hi>GEORGE BISHOPE.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Multitudes, Multitudes in the Valley of Deciſion; for the Day of the Lord is near in the Valley of Deciſion,</hi> 
+                  <bibl>Joel 3. 14.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>
+                  <hi>Sing and rejoice O Daughter of Sion, for lo I come, and will dwell in the midſt of Thee, ſaith the Lord, and many Nations ſhall be join<g ref="char:EOLhyphen"/>ed to the Lord in that day, and ſhall be my people, and I will dwell in the midſt of thee; and thou ſhalt know that the Lord of Hoſts hath ſent me unto thee. And the Lord ſhall inherit</hi> Judah <hi>his portion in the Holy Land, and ſhall chooſe Jeruſalem again; Be ſilent O all fleſh before the Lord, for he is raiſed up out of his holy Habitation.</hi> 
+                  <bibl>Zach. 2. 10, 11, 12, 13.</bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilſon,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:105067:2"/>
+            <pb n="1" facs="tcp:105067:2" rendition="simple:additions"/>
+            <head>The Burden of BABYLON, &amp;c.</head>
+            <p>IN the <hi>Valley of Viſion,</hi> under the <hi>bottom</hi> of the <hi>Mountains,</hi> and the depths of the <hi>Rocks,</hi> as <hi>I</hi> lay in the <hi>Deep, I</hi> ſaw <hi>this</hi> Burden of <hi>Babylon.</hi>
+            </p>
+            <p>O ye <hi>Oppreſſing</hi> Powers! who have kept the <hi>Seed</hi> of <hi>God</hi> under, and made it <hi>continually</hi> to cry by reaſon of its <hi>Oppreſſion,</hi> the <hi>Word</hi> of the <hi>Lord</hi> thorough <hi>me,</hi> is to <hi>You. Wo, Wo</hi> unto <hi>You</hi> from the <hi>Lord;</hi> for <hi>his</hi> Day is coming upon <hi>you</hi> like a <hi>Whirlwind,</hi> and who ſhall <hi>ſtop</hi> it? <hi>He</hi> will <hi>work,</hi> and who ſhall <hi>let</hi> it? <hi>He</hi> brings it on, and it comes <hi>ſwift,</hi> and who ſhall <hi>hinder</hi> it? <hi>I</hi> will not <hi>ſpare</hi> the <hi>Guilty,</hi> ſaith the <hi>Lord; I</hi> wil not <hi>con<g ref="char:EOLhyphen"/>demn</hi> the <hi>Innocent: I</hi> will <hi>render</hi> to <hi>Every</hi> man according to <hi>his</hi> Work. <hi>My</hi> Day comes <hi>ſwift,</hi> and who ſhall <hi>put</hi> it by? <hi>I</hi> will be avenged on <hi>mine</hi> Enemies, <hi>I</hi> will <hi>bring</hi> under <hi>them</hi> that <hi>hate</hi> me. <hi>All</hi> mine Enemies ſhall be ſound <hi>Lyars</hi> unto <hi>Me: Vanity</hi> ſhall take <hi>them;</hi> the <hi>Wind</hi> ſhall carry <hi>them</hi> away. But <hi>they</hi> that fear the <hi>Lord</hi> ſhall <hi>Poſſeſs</hi> the Land; <hi>They</hi> ſhall <hi>inherit</hi> mine holy Mountain, ſaith the <hi>Lord.</hi>
+            </p>
+            <p>
+               <hi>Fear, Horror,</hi> and the <hi>Pit</hi> is upon <hi>thee,</hi> O <hi>Daughter</hi> of <hi>Babylon: Thou</hi> ſhalt <hi>not</hi> be: An <hi>End</hi> is come, even the <hi>Meaſure</hi> of <hi>thine</hi> I<g ref="char:EOLhyphen"/>niquity: <hi>Thou</hi> haſt <hi>long</hi> boaſted <hi>thy</hi> ſelf, and <hi>gloryed: Thou</hi> haſt <hi>long</hi> made merry <hi>over</hi> the <hi>Blood</hi> of the <hi>Slain;</hi> thou haſt <hi>long</hi> drunk the <hi>Blood</hi> of the <hi>Poor</hi> and <hi>Needy: Thou</hi> haſt <hi>glutted thy</hi> ſelf, and become <hi>fat: Thou</hi> art <hi>covered</hi> with <hi>Oyntments,</hi> and with <hi>Abomina<g ref="char:EOLhyphen"/>tions,</hi> and haſt <hi>enricht thy</hi> ſelf: <hi>Thou</hi> haſt <hi>ſitten</hi> as a <hi>Queen,</hi> and haſt ſaid, <hi>I ſhall ſee no ſorrow: My</hi> Children are <hi>Many, I</hi> ſhall not be <hi>Deſolate. Thou</hi> haſt vaunted it <hi>againſt</hi> the <hi>Lord,</hi> and <hi>exalted thy</hi> ſelf againſt the <hi>Holy</hi> One of <hi>Iſrael:</hi> Tuſh! doth <hi>God</hi> regard? Is there <hi>knowledge</hi> in the <hi>Moſt</hi> High? <hi>Thou</hi> haſt made <hi>thy</hi> Neſts in the <hi>Stars,</hi> and thither <hi>thou</hi> art gone up. <hi>Thou</hi> haſt decked <hi>thy</hi> ſelf as though <hi>thou</hi> ſhouldeſt <hi>never</hi> know <hi>ſorrow</hi> any more. <hi>Thou</hi> are grown <hi>exceeding</hi> lofty; <hi>Thou</hi> trampleſt upon the <hi>Foot</hi> of the <hi>Poor</hi> and <hi>Needy: Thou</hi> ſcorneſt the <hi>Lord,</hi> and feareſt not before the <hi>Mighty One</hi> of <hi>Iſrael: Thou</hi> art gone <hi>beyond</hi> all bounds: <hi>Thou</hi> en<g ref="char:EOLhyphen"/>largeſt <hi>thy</hi> ſelf as <hi>Hell,</hi> and as the <hi>Grave</hi> which is never ſatisfied.
+<pb n="2" facs="tcp:105067:3" rendition="simple:additions"/> The <hi>Virgin</hi> Daughter of <hi>Sion</hi> was <hi>contemned</hi> by <hi>thee</hi> in the <hi>Day</hi> of <hi>thy</hi> Proſperity: <hi>Thou</hi> deridedſt when <hi>ſhe</hi> was <hi>spoken</hi> of; <hi>thou</hi> ma<g ref="char:EOLhyphen"/>deſt a <hi>mock</hi> of <hi>her</hi> ſorrows, when <hi>tears</hi> covered <hi>her;</hi> when <hi>ſhe</hi> ſate <hi>Deſolate</hi> on the ground, and <hi>Aſhes</hi> were <hi>over</hi> her; when <hi>ſhe</hi> was bereaved of <hi>Children,</hi> and <hi>without</hi> an <hi>Husband; thou</hi> ſportedſt at <hi>her</hi> Affliction, and took'ſt <hi>pleaſure</hi> in <hi>her</hi> groans; the <hi>Burden</hi> of <hi>E<g ref="char:EOLhyphen"/>very</hi> One <hi>raiſed</hi> thee <hi>up:</hi> When <hi>thou</hi> heardeſt <hi>them,</hi> thou <hi>rejoicedſt:</hi> The <hi>more</hi> ſhe was brought <hi>low,</hi> the <hi>more thou</hi> exaltedſt <hi>thy</hi> ſelf, and <hi>thou</hi> madeſt a <hi>mock</hi> of <hi>her</hi> ſufferings: <hi>Thou</hi> puttedſt <hi>thy</hi> foot upon <hi>her; thou</hi> puſhedſt <hi>her; thou</hi> diſdainedſt <hi>her</hi> with <hi>thine</hi> eye; <hi>thou</hi> cryedſt <hi>Aha!</hi> The <hi>Lord God</hi> filled <hi>her</hi> with <hi>bitterneſs,</hi> and the <hi>tranſ<g ref="char:EOLhyphen"/>greſſions</hi> of <hi>her</hi> youth were upon <hi>her,</hi> and <hi>thou</hi> waſt <hi>glad.</hi>
+            </p>
+            <p>Behold! <hi>Thy</hi> Day is come wherein <hi>thou</hi> ſhalt be like unto <hi>her. Thou</hi> haſt <hi>lived</hi> in <hi>pleaſure; thou</hi> haſt <hi>murdered</hi> the <hi>Juſt,</hi> and <hi>he</hi> hath not <hi>reſiſted</hi> thee: <hi>Thou</hi> art <hi>very</hi> haughty, and <hi>winkeſt</hi> with <hi>thine</hi> eye, and <hi>minceſt</hi> with <hi>thy</hi> feet: <hi>Thou</hi> art become <hi>exceeding</hi> delicate. <hi>Ma<g ref="char:EOLhyphen"/>ny</hi> lovers <hi>thou</hi> haſt, and <hi>thine</hi> eyes <hi>roul up</hi> and <hi>down,</hi> and <hi>thou</hi> think<g ref="char:EOLhyphen"/>eſt <hi>every</hi> one is taken with <hi>thy</hi> Beauty: <hi>Thy</hi> Deſtruction ſhall <hi>come</hi> from <hi>far,</hi> and <hi>thy</hi> Calamity from the <hi>Ends</hi> of the <hi>Earth:</hi> And <hi>thou</hi> ſhalt <hi>fall</hi> and riſe <hi>no</hi> more, ſaith the <hi>Lord.</hi>
+            </p>
+            <p>
+               <hi>Thy</hi> Lovers ſhall leave <hi>thee, thy</hi> familiars ſhall forſake <hi>thee; thy</hi> Friends and <hi>Kinsfolk</hi> ſhall ſtand <hi>afar</hi> off <hi>thee: Thy</hi> Children ſhall <hi>not</hi> be in the <hi>Day</hi> that <hi>I</hi> will viſit <hi>thee,</hi> ſaith the <hi>Lord.</hi> Stand <hi>afar</hi> off, look upon <hi>her,</hi> behold <hi>her</hi> torment: <hi>Flee, flee from the Land of Caldea; It's</hi> rowling up as a <hi>Scrowle</hi> before the <hi>fire: It's</hi> ini<g ref="char:EOLhyphen"/>quity is <hi>upon</hi> it; <hi>It's</hi> ſinking into the <hi>Sea;</hi> out of <hi>which</hi> it ſhall <hi>ne<g ref="char:EOLhyphen"/>ver</hi> Ariſe, ſaith the <hi>Lord.</hi>
+            </p>
+            <p>
+               <hi>No</hi> more Remembrance ſhall be had of <hi>Thee, O Daughter</hi> of <hi>Babylon! O Thou Oppreſſing</hi> City! <hi>Thou</hi> Bloody <hi>City!</hi> Whoſe <hi>ſcum</hi> is in the <hi>midſt</hi> of <hi>Thee; Thou</hi> muſt be <hi>conſumed;</hi> Neither <hi>Name,</hi> nor <hi>Remnant;</hi> neither <hi>Son,</hi> nor <hi>Nephew; No</hi> More of <hi>thy</hi> ſtock from <hi>Ge<g ref="char:EOLhyphen"/>neration</hi> to <hi>Generation.</hi> The <hi>Lord</hi> hath <hi>ſaid</hi> it.</p>
+            <p>
+               <hi>Thy</hi> Day is at an <hi>End; Thy</hi> Night is <hi>Come; Thy</hi> Sorrows and <hi>Perplexities; Thy</hi> deſperate <hi>Sorrows; Thou</hi> maiſt <hi>not</hi> be <hi>pittied,</hi> O <hi>Daughter</hi> of <hi>Babylon,</hi> who art to <hi>be</hi> deſtroyed: <hi>Happy</hi> ſhall <hi>he</hi> be that Rewardeth <hi>thee</hi> as <hi>thou</hi> haſt ſerved <hi>us.</hi> Happy ſhall <hi>he</hi> be that taketh &amp; daſheth <hi>thy</hi> Little Ones againſt the <hi>Stones,</hi> ſaith the <hi>Lord.</hi>
+            </p>
+            <p>
+               <hi>Jeruſalem</hi> was not at all conſidered by <hi>thee</hi> in the day of <hi>her</hi> Ca<g ref="char:EOLhyphen"/>lamity, in the <hi>Day</hi> that <hi>her</hi> Iniquity had an End: When <hi>thou</hi> ſaw<g ref="char:EOLhyphen"/>eſt it, <hi>thou</hi> helpeſt it on, and <hi>joyedſt</hi> in <hi>her</hi> Diſtreſs, <hi>Thou</hi> ſhall not
+<pb n="3" facs="tcp:105067:3" rendition="simple:additions"/> be bemoaned; None ſhall <hi>ſigh</hi> for <hi>Thee</hi> in the <hi>Day</hi> when the <hi>Lord</hi> ſhall cover <hi>thee</hi> with <hi>thine</hi> own Doings, &amp; fill <hi>thee</hi> with the works of <hi>thy</hi> hands; Who ſhall lay thee <hi>low</hi> and <hi>deſolate,</hi> and <hi>compaſs</hi> thee with <hi>tears,</hi> &amp; fill <hi>thee</hi> with <hi>blood,</hi> and put <hi>thee</hi> into the <hi>Pit,</hi> Ne<g ref="char:EOLhyphen"/>ver to <hi>ariſe:</hi> None ſhal ſhed a <hi>tear</hi> for <hi>thee.</hi> The <hi>Lord</hi> hath <hi>ſpoken</hi> it.</p>
+            <p>All <hi>thy</hi> Dayes of Pleaſure draw to an <hi>End: Thou</hi> haſt been <hi>feaſting</hi> it <hi>long,</hi> and with thy Jovial Companions haſt been <hi>praiſing</hi> the <hi>Gods</hi> of <hi>Gold</hi> and of <hi>Silver,</hi> of <hi>Braſs,</hi> of <hi>Iron,</hi> of <hi>Wood,</hi> and of <hi>Stone</hi> in the <hi>Veſſels</hi> of the <hi>Houſe</hi> of the <hi>Lord,</hi> and there <hi>thou</hi> haſt <hi>Quaff'd</hi> it: Whil'ſt <hi>Sion</hi> lay <hi>ploughèd</hi> up as a <hi>Field,</hi> and <hi>Jeruſalem</hi> in <hi>Aſhes:</hi> A <hi>Deadly</hi> Draught it ſhall <hi>prove</hi> to <hi>Thee:</hi> For <hi>thou</hi> ſhalt <hi>Drink,</hi> and be <hi>Drunken,</hi> and be <hi>Moved,</hi> and be <hi>Mad,</hi> and <hi>Spue,</hi> and <hi>fall,</hi> and <hi>riſe</hi> no more, ſaith the <hi>Lord.</hi>
+            </p>
+            <p>
+               <hi>Thou</hi> haſt been <hi>ſtrutting</hi> it <hi>long</hi> in the <hi>Pallace</hi> of <hi>Babylon,</hi> and haſt <hi>ſaid,</hi> Is not this Great <hi>Babylon</hi> that <hi>I</hi> have built for the <hi>houſe</hi> of the <hi>Kingdom,</hi> by the <hi>Might</hi> of <hi>my</hi> Power, and for the <hi>Honor</hi> of <hi>my</hi> Majeſty? <hi>Thou</hi> haſt thought <hi>thou</hi> ſhalt <hi>never</hi> be removed: A <hi>ſwift</hi> Deſtruction ſhall <hi>come</hi> upon <hi>Thee,</hi> and <hi>thou</hi> ſhalt be <hi>thrown</hi> into the <hi>Pit:</hi> The Lord hath <hi>ſpoken</hi> it.</p>
+            <p>
+               <hi>Great</hi> Peace ſhall be unto <hi>them</hi> who are <hi>thine</hi> Enemies; and of the <hi>encreaſe</hi> of the <hi>Government</hi> that's over <hi>thee,</hi> and <hi>Peace, there</hi> ſhall be <hi>No</hi> End. Upon the <hi>Throne</hi> of <hi>David,</hi> and upon <hi>his</hi> King<g ref="char:EOLhyphen"/>dom, to <hi>Order</hi> it, and <hi>eſtabliſh</hi> it with <hi>Judgement</hi> and with <hi>Juſtice,</hi> from <hi>henceforth</hi> even for <hi>Ever.</hi> The <hi>Zeal</hi> of the <hi>Lord</hi> of <hi>Hosts</hi> ſhall perform <hi>this.</hi>
+            </p>
+            <p>
+               <hi>Thou</hi> haſt been <hi>exceeding</hi> Proud, and <hi>full</hi> of Contempt, when the <hi>Daughter</hi> of <hi>Sion</hi> hath been <hi>bowed</hi> Down: <hi>Thou</hi> ſhalt <hi>go</hi> into <hi>Captivity,</hi> out of which <hi>thou</hi> ſhalt not <hi>Return,</hi> ſaith the <hi>Lord.</hi>
+            </p>
+            <p>Have <hi>Mercy</hi> upon <hi>Us,</hi> O <hi>Lord!</hi> have <hi>mercy</hi> upon <hi>Us;</hi> for <hi>We</hi> are <hi>exceedingly</hi> filled with <hi>Contempt; Our</hi> Soul is <hi>exceedingly</hi> filled with the <hi>ſcornings</hi> of <hi>thoſe</hi> that are at <hi>Eaſe,</hi> and with the <hi>Contempt</hi> of the <hi>Proud.</hi> Remember, O <hi>Lord!</hi> the <hi>Children</hi> of <hi>Edom,</hi> in the <hi>Day</hi> of <hi>Jeruſalem,</hi> who ſaid, <hi>Raze</hi> it, <hi>Raze</hi> it, even to the <hi>Foundation</hi> of it; ſaid <hi>Sion</hi> in the <hi>Day</hi> of <hi>her</hi> Diſtreſs: But <hi>thou</hi> vauntedſt it <hi>then,</hi> and <hi>cryedſt, Aha! She</hi> is <hi>broken</hi> that was the <hi>Gate</hi> of the <hi>People: We</hi> ſhall be <hi>Repleniſhed, ſhe</hi> is <hi>turned</hi> unto <hi>Us. Theſe</hi> Two Nations, and theſe <hi>Two</hi> Countreys ſhall be <hi>Mine;</hi> and <hi>We</hi> will <hi>poſſeſs</hi> it, whenas the <hi>Lord</hi> was <hi>there.</hi> Therefore as <hi>I</hi> live ſaith the <hi>Lord God, I</hi> will do <hi>even</hi> according to <hi>thine</hi> Anger, and according to <hi>thine</hi> Envy which <hi>thou</hi> haſt uſed out of <hi>thy</hi> Hatred
+<pb n="4" facs="tcp:105067:4" rendition="simple:additions"/> againſt <hi>them,</hi> and <hi>I</hi> will make <hi>my</hi> ſelf known amongſt <hi>them</hi> when <hi>I</hi> have Judged <hi>thee,</hi> and <hi>thou</hi> ſhalt know that <hi>I</hi> am the <hi>Lord,</hi> and that <hi>I</hi> have heard all <hi>thy</hi> Blaſphemies which <hi>thou</hi> haſt ſpoken a<g ref="char:EOLhyphen"/>gainſt the <hi>Mountains</hi> of <hi>Iſrael,</hi> ſaying, <hi>They</hi> are <hi>laid</hi> Deſolate, <hi>they</hi> are given <hi>Us</hi> to <hi>Conſume.</hi> Thus with <hi>your</hi> Mouth <hi>ye</hi> have <hi>boaſted</hi> againſt <hi>me,</hi> and have <hi>multiplyed your</hi> words againſt <hi>me, I</hi> have heard <hi>them.</hi> Thus ſaith the <hi>Lord God,</hi> When the <hi>whole</hi> Earth Rejoiceth, <hi>I</hi> will make <hi>thee</hi> Deſolate: As <hi>thou</hi> didſt <hi>Rejoice</hi> at the <hi>Inheritance</hi> of the <hi>Houſe</hi> of <hi>Iſrael,</hi> becauſe it was <hi>Deſolate,</hi> ſo will <hi>I</hi> do unto <hi>thee: Thou</hi> ſhalt be <hi>Deſolate,</hi> O <hi>Mount Seir!</hi> and <hi>all</hi> Idumea, even <hi>all</hi> of it, and <hi>they</hi> ſhall know that <hi>I</hi> am the <hi>Lord. Son</hi> of <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, thy</hi> face againſt <hi>Mount Seir,</hi> and <hi>propheſie</hi> againſt it, and ſay unto it, <hi>Thus</hi> ſaith the <hi>Lord God,</hi> Behold! O <hi>Mount Seir, I</hi> am againſt <hi>thee,</hi> and <hi>I</hi> will ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etch out <hi>Mine</hi> hand againſt <hi>thee,</hi> and <hi>I</hi> wil make <hi>thee</hi> moſt Deſolate; <hi>I</hi> will lay <hi>thy</hi> Cities <hi>waſte,</hi> and <hi>thou</hi> ſhalt be <hi>De<g ref="char:EOLhyphen"/>ſolate,</hi> and <hi>thou</hi> ſhalt know that <hi>I</hi> am the <hi>Lord,</hi> becauſe <hi>thou</hi> haſt had a <hi>perpetual</hi> hatred, and haſt <hi>ſhed</hi> the <hi>Blood</hi> of the <hi>Children</hi> of <hi>Iſrael</hi> by the <hi>force</hi> of the <hi>Sword</hi> in the <hi>time</hi> of <hi>their</hi> Calamity; in the <hi>time</hi> that <hi>their</hi> iniquity had an <hi>End.</hi> Therefore as <hi>I</hi> live ſaith the <hi>Lord God, I</hi> will prepare <hi>thee</hi> unto <hi>Blood,</hi> and <hi>Blood</hi> ſhall <hi>pur<g ref="char:EOLhyphen"/>ſue thee,</hi> ſith <hi>thou</hi> haſt not hated <hi>Blood; even Blood</hi> ſhall purſue <hi>thee.</hi> Thus will <hi>I</hi> make <hi>Mount Seir</hi> moſt Deſolate, and cut <hi>out</hi> from <hi>it him</hi> that <hi>paſſeth</hi> out, and <hi>him</hi> that <hi>Returneth,</hi> and <hi>I</hi> will fill <hi>his</hi> Mountains with <hi>his</hi> ſlain Men, in <hi>thy</hi> Hills, and in <hi>thy</hi> Valleys, and in <hi>all thy</hi> Rivers ſhall <hi>they</hi> fall that are <hi>ſlain</hi> with the <hi>Sword. I</hi> will make <hi>thee perpetual</hi> Deſolations; and thy <hi>Cities</hi> ſhall <hi>not</hi> Return: and <hi>ye</hi> ſhall know that <hi>I</hi> am the <hi>Lord.</hi>
+            </p>
+            <p>Thus <hi>far</hi> of the <hi>Burden</hi> of <hi>Idumea.</hi>
+            </p>
+            <p>But as for <hi>thee,</hi> O <hi>Babylon!</hi> As for <hi>thee,</hi> O <hi>Leviathan! Thou</hi> pier<g ref="char:EOLhyphen"/>cing <hi>Serpent; thou</hi> Crooked <hi>Serpent; thou</hi> Dragon that art in the <hi>midſt</hi> of the <hi>Sea; I</hi> wil puniſh <hi>thee</hi> with <hi>my ſore,</hi> and <hi>great,</hi> and <hi>ſtrong</hi> Sword, ſaith the <hi>Lord:</hi> And I wil <hi>ſlay</hi> the <hi>Dragon</hi> that is in the <hi>Sea.</hi>
+            </p>
+            <p>And as for <hi>thee</hi> Pharoah <hi>King</hi> of <hi>Egypt,</hi> the <hi>Great</hi> Dragon that lies in the <hi>midſt</hi> of <hi>His</hi> Rivers, which hath ſaid, <hi>My</hi> River is <hi>mine</hi> Own; I have made it for <hi>my</hi> ſelf. Thus ſaith the <hi>Lord God,</hi> Behold, I am Againſt <hi>thee;</hi> I wil put Hooks into <hi>thy</hi> Chaws, and cauſe the <hi>Fiſh</hi> of <hi>thy</hi> Rivers to ſtick unto <hi>thy</hi> Skales, and wil bring <hi>thee</hi> up out of the <hi>midſt</hi> of <hi>thy</hi> Rivers, and <hi>all</hi> the <hi>fiſh</hi> of <hi>thy</hi> Rivers ſhall ſtick unto <hi>thy</hi> Skales, and I will leave <hi>thee</hi> thrown into the <hi>Wilder<g ref="char:EOLhyphen"/>neſſe,
+<pb n="5" facs="tcp:105067:4" rendition="simple:additions"/> thee,</hi> and <hi>all</hi> the <hi>Fiſh</hi> of <hi>thy</hi> Rivers; <hi>Thou</hi> ſhalt <hi>fall</hi> upon the <hi>Open</hi> fields: <hi>Thou</hi> ſhalt not be <hi>brought</hi> together, nor <hi>Gathered; I</hi> have given <hi>thee</hi> for Meat to the <hi>Beaſts</hi> of the <hi>field,</hi> and to the <hi>Fowls</hi> of <hi>Heaven,</hi> and all the <hi>Inhabitants</hi> of <hi>Egypt</hi> ſhall know that I am the <hi>Lord;</hi> becauſe they have been a <hi>ſtaffe</hi> of <hi>Reed</hi> to the <hi>houſe</hi> of <hi>Iſrael;</hi> wher <hi>they</hi> took hold of <hi>thee</hi> by <hi>the</hi> hand, <hi>thou</hi> didſt <hi>break</hi> and <hi>rent</hi> all <hi>their</hi> ſhoulder; and when <hi>they</hi> Leaned upon <hi>thee, thou</hi> brakeſt, and <hi>made</hi> all <hi>their</hi> Loins to be at a <hi>ſtand.</hi> Therefore, <hi>thus</hi> ſaith the <hi>Lord God,</hi> Behold! I will bring a <hi>ſword</hi> upon <hi>thee,</hi> and <hi>Cut</hi> out <hi>Man</hi> and <hi>Beaſt</hi> out of <hi>thee;</hi> and the <hi>Land</hi> of <hi>Egypt</hi> ſhall be <hi>deſolate</hi> and <hi>waſte,</hi> and they ſhall know that I am the <hi>Lord:</hi> becauſe <hi>he</hi> hath ſaid, The <hi>River</hi> is mine Own, and I have made it.</p>
+            <p>But as for <hi>Thee,</hi> O <hi>Daughter</hi> of <hi>Sion!</hi> O <hi>Virgin</hi> Daughter of <hi>Jeruſalem! Rejoice,</hi> and be <hi>exceeding</hi> glad: For the <hi>Day</hi> of <hi>thy</hi> Calamity hath an <hi>End:</hi> The <hi>Meaſure</hi> of <hi>thy</hi> ſufferings are <hi>up;</hi> when <hi>this</hi> is Over, which is <hi>now</hi> Coming upon <hi>Thee. Thou</hi> ſhalt not <hi>ſorrow</hi> any <hi>more,</hi> neither ſhalt <hi>thou</hi> weep: Tears <hi>no</hi> more ſhal be <hi>thy</hi> Repaſt continually: Deſolation and Deſtruction ſhal <hi>not</hi> come within <hi>Thy</hi> Borders. Peace ſhal be within <hi>Thy</hi> Walls, and Proſperity within <hi>Thy</hi> Pallaces: <hi>They</hi> ſhall Proſper that love <hi>Thee.</hi> There ſhall <hi>no</hi> more be within <hi>Thee</hi> an Infant of <hi>Daies;</hi> Nor an <hi>Old</hi> Man that ſtoopeth by <hi>Reaſon</hi> of <hi>Age: Thy</hi> People ſhal be <hi>all</hi> Righteous; The <hi>Branch</hi> of <hi>my</hi> Planting; The <hi>Work</hi> of <hi>my</hi> hands, that <hi>I</hi> may be glorified, ſaith the <hi>Lord.</hi>
+            </p>
+            <p>Paleneſs ſhall <hi>no</hi> longer cover <hi>Thee;</hi> nor ſhall <hi>thy</hi> Cheeks <hi>any more</hi> wax thin; Nor ſhall Dimneſs be upon <hi>Thy</hi> Glory: The Everlaſting <hi>God</hi> ſhall be thine <hi>Everlaſting</hi> Light, and the Daies of <hi>thy</hi> Mourning ſhall be ended. For a little while have <hi>I</hi> for<g ref="char:EOLhyphen"/>ſaken <hi>thee,</hi> but with <hi>Everlaſting</hi> kindneſs will <hi>I</hi> embrace <hi>thee;</hi> and Reſtore Comfort unto <hi>thee,</hi> and to <hi>thy</hi> Mourners.</p>
+            <p>Behold, the <hi>Day</hi> is Come, wherein though <hi>I</hi> will make a <hi>full</hi> End of the <hi>Nations</hi> where <hi>thou</hi> haſt been ſcattered; yet <hi>I will</hi> not make a <hi>full</hi> End of <hi>thee;</hi> but will gather <hi>thee,</hi> and reſtore Comfort to <hi>thee;</hi> and <hi>thou</hi> ſhalt be in the <hi>midſt</hi> of <hi>many</hi> Peo<g ref="char:EOLhyphen"/>ple, as a <hi>Lyon</hi> among the <hi>Beaſts</hi> of the <hi>Forreſts:</hi> As a <hi>Young</hi> Lion among the <hi>Flocks</hi> of <hi>Sheep;</hi> who if <hi>he</hi> goeth thorow, both <hi>trea<g ref="char:EOLhyphen"/>deth</hi> Down, and <hi>teareth</hi> to <hi>pieces,</hi> and <hi>none</hi> can <hi>Deliver; Thine</hi> hand ſhall be lift up upon <hi>thine</hi> Adverſaries; and <hi>all</hi> Thine E<g ref="char:EOLhyphen"/>nemies ſhall be <hi>cut</hi> off.</p>
+            <pb n="6" facs="tcp:105067:5" rendition="simple:additions"/>
+            <p>And, Whereas <hi>Thou</hi> haſt been forſaken, and <hi>Deſolate,</hi> ſo that <hi>no man</hi> hath paſſed thorough <hi>thee; I</hi> will make <hi>thee</hi> an <hi>Eternal</hi> Excellency; a <hi>Joy</hi> of <hi>many</hi> Generations. <hi>Thou</hi> ſhalt call upon <hi>Me,</hi> ſaith the <hi>Lord,</hi> and <hi>I</hi> will anſwer <hi>thee; Thou</hi> ſhalt ſpeak, and <hi>I</hi> will hear <hi>thee.</hi> For, <hi>thou</hi> Iſrael art <hi>my</hi> ſervant <hi>Jacob</hi> whom <hi>I</hi> have choſen; The <hi>ſeed</hi> of <hi>Abraham my</hi> friend: <hi>Thou</hi> whom <hi>I</hi> have taken from the <hi>Ends</hi> of the <hi>Earth,</hi> and called <hi>thee</hi> from the <hi>chief</hi> men thereof; and ſaid unto <hi>thee, Thou</hi> art <hi>my</hi> ſervant; <hi>I</hi> have choſen <hi>thee,</hi> and not caſt <hi>thee</hi> away. Fear <hi>thou</hi> not, for <hi>I</hi> am with <hi>thee;</hi> Be not diſmai'd, for <hi>I</hi> am <hi>thy</hi> God: <hi>I</hi> will ſtrengthen <hi>thee;</hi> yea, <hi>I</hi> will help <hi>thee;</hi> yea, <hi>I</hi> will uphol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>thee</hi> with the <hi>right</hi> hand of <hi>my</hi> Righteouſneſs. Behold, all <hi>they</hi> that were <hi>incenſed</hi> againſt <hi>thee</hi> ſhall be <hi>aſhamed</hi> and <hi>confounded; they</hi> ſhall be as <hi>nothing;</hi> and <hi>they</hi> that ſtrive with <hi>thee</hi> ſhall periſh. <hi>Thou</hi> ſhalt ſeek <hi>them,</hi> but ſhalt not find <hi>them;</hi> even <hi>them</hi> that contended with <hi>thee.</hi> They that war againſt <hi>thee</hi> ſhal be as <hi>no<g ref="char:EOLhyphen"/>thing,</hi> and as a <hi>thing</hi> of <hi>nought.</hi> For <hi>I</hi> the <hi>Lord thy</hi> God will hold <hi>thy</hi> Right hand; ſaying unto <hi>thee,</hi> Fear not, <hi>I</hi> will help <hi>thee.</hi> Fear not <hi>thou</hi> Worm <hi>Jacob,</hi> &amp; <hi>yee</hi> men of <hi>Iſrael;</hi> I will help <hi>thee,</hi> ſaith the <hi>Lord,</hi> &amp; <hi>thy</hi> Redeemer; the <hi>Holy</hi> One of <hi>Iſrael.</hi> Be<g ref="char:EOLhyphen"/>hold, I will make <hi>thee</hi> a <hi>new</hi> Threſhing Inſtrument having <hi>teeth; Thou</hi> ſhalt Threſh the <hi>Mountains,</hi> and beat <hi>them</hi> ſmall, and ſhalt make the <hi>Hills</hi> as <hi>Chaff; Thou</hi> ſhalt fan <hi>them,</hi> and the <hi>Wind</hi> ſhall carry <hi>them</hi> away, and the <hi>Whirelwind</hi> ſhall ſcatter <hi>them;</hi> and <hi>thou</hi> ſhalt rejoice in the <hi>Lord;</hi> and <hi>Glory</hi> in the <hi>Holy One</hi> of <hi>Iſrael.</hi>
+            </p>
+            <p>So be <hi>thou</hi> of <hi>Good</hi> Comfort; Lift up <hi>thy</hi> head, for <hi>thy</hi> Re<g ref="char:EOLhyphen"/>demption draws nigh: Rejoice <hi>greatly,</hi> O <hi>Daughter</hi> of <hi>Sion;</hi> Shout, O <hi>Daughter</hi> of <hi>Jeruſalem:</hi> Behold <hi>thy</hi> King cometh unto <hi>thee;</hi> he is <hi>Juſt,</hi> and <hi>having</hi> Salvation; <hi>Lowly,</hi> and riding on an <hi>Aſs,</hi> the <hi>Foale</hi> of an <hi>Aſs; he</hi> will joy over <hi>thee</hi> with <hi>Joy,</hi> &amp; rejoice over <hi>thee</hi> with <hi>ſhouting;</hi> and <hi>he</hi> will marry <hi>thee</hi> unto <hi>him,</hi> as a <hi>young</hi> man marries a <hi>Virgin;</hi> &amp; <hi>thou</hi> ſhalt be called the <hi>bleſ<g ref="char:EOLhyphen"/>ſed</hi> of the <hi>Lord,</hi> and <hi>thine</hi> off-ſpring with <hi>thee,</hi> ſaith the <hi>Lord.</hi>
+            </p>
+            <p>For <hi>Silver</hi> I will give <hi>Gold,</hi> and for <hi>Braſſe</hi> Silver, and for <hi>Iron</hi> Braſs, and for <hi>Wood</hi> Iron. <hi>All</hi> thine <hi>Officers</hi> ſhall be <hi>Peace,</hi> &amp; <hi>thine</hi> Exactors Righteouſneſs. <hi>Waſting</hi> and <hi>Deſtruction</hi> ſhall be <hi>no</hi> more heard within <hi>thy</hi> borders. <hi>Thou</hi> ſhalt call <hi>thy</hi> Walls Salvation, and <hi>thy</hi> Gates Praiſe. And the <hi>Name</hi> of <hi>thy</hi> City from <hi>that</hi> Day ſhall be called, <hi>the Lord is there.</hi>
+            </p>
+            <p>And <hi>this</hi> Triumph I heard in the <hi>Valley</hi> of <hi>Viſion,</hi> and <hi>this</hi> Burden I ſaw in the <hi>Valley</hi> of Deciſion, even the <hi>Burden</hi> of <hi>Babylon,</hi> and the <hi>Triumph</hi> of <hi>Sion,</hi> as I was in the <hi>Deep</hi> the 24 and 25 8 Month, 1661.</p>
+            <trailer>The End</trailer>
+            <closer>
+               <signed>G. B.</signed>
+            </closer>
+            <pb facs="tcp:105067:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
